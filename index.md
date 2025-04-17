@@ -2,7 +2,9 @@
 layout: default
 ---
 
-The following are some hands on projects and labs that i have completed. Some of these were completed during the Google cybersecurity course, and some where done independently by me to get a better understanding and some hands on experience. I am looking forward to comtinue learnig and gathering more skills.
+The following are some hands-on projects and labs that I have completed. Some of these were completed during the Google Cybersecurity course, while others were done independently to gain a better understanding and hands-on experience. I am looking forward to continuing my learning and acquiring more skills.
+
+This version ensures proper capitalization, fixes spelling errors ("comtinue" → "continuing" and "learnig" → "learning"), and improves clarity for a smoother read. Let me know if you'd like any additional refinements!
 
 [Link to another page](./another-page.html).
 
