@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> The following are some hands-on projects and labs that I have completed. Some of these were completed during the Google Cybersecurity course, while others were done independently to gain a better understanding and hands-on experience. I am looking forward to continuing my learning and acquiring more skills.
+> -The following are some hands-on projects and labs that I have completed. Some of these were completed during the Google Cybersecurity course, while others were done independently to gain a better understanding and hands-on experience. I am looking forward to continuing my learning and acquiring more skills.
 
 [Link to another page](./another-page.html).
 
