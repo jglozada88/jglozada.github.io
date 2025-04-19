@@ -4,15 +4,9 @@ layout: default
 
  - The following are some hands-on projects and labs that I have completed. Some of these were completed during the Google Cybersecurity course, while others were done independently to gain a better understanding and hands-on experience. I am looking forward to continuing my learning and acquiring more skills.
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Filtering SQL query
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Here I ran a query to find all employees in the south building.
 
 ![Branching](25 edit.png)
 ## Header 2
